@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kiran
-- 👀 I have a single name.
-- 🌱 I love to code and learn about new advancements in technology.
   
 check out my few favourites
 
